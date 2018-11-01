@@ -3,7 +3,7 @@ A python script that takes an image and resizes it for use as a Discord emote.
 
 To use, clone the repository and type 
 
-'python EmoteResizer.py [image to be made into an emote] [output filename]'
+`python EmoteResizer.py [image to be made into an emote] [output filename]`
 
 The output file will be a 128x128 pixel png that will be ready to be put into a server.
 
