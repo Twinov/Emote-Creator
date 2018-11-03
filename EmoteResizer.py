@@ -7,7 +7,7 @@ This script takes a cropped image and turns it into
 the appropriate size for use in a Discord emote, maximizing
 the possible size in the 128pxx128px allowed by Discord
 """
-__version__ = "1.0"
+__version__ = "1.1"
 __author__ = "Marc Hoeltge"
 
 import sys
